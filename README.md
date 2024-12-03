@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankursasmal
-- 👀 I’m interested in full stack web devolapment
-- 🌱 I’m currently learning react js
+- 👀 I have completed full stack web devolapment(MERN)
+- 🌱 I’m currently learning AI/ML 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
